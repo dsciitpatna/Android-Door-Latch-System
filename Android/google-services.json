@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "199763660505",
+    "firebase_url": "https://switching-theory-project.firebaseio.com",
+    "project_id": "switching-theory-project",
+    "storage_bucket": "switching-theory-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199763660505:android:af032273a2008ffb",
+        "android_client_info": {
+          "package_name": "com.example.doorlock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199763660505-qhte439dnsi5k758hltqed1gr387u2o5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkUr5lD8l9HDMXdyE7W2TOutA6Xu1yjns"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199763660505-qhte439dnsi5k758hltqed1gr387u2o5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
