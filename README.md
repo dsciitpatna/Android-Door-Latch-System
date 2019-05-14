@@ -21,7 +21,8 @@ A low cost Door Latch System which can be control using an Android App and it ev
 10. Multimeter (not necessary but it was handy to quickly check some connections)
 
 ## Circuit Diagram
-**NodeMCU Pinout** ![](images/NodeMCU-pinout.jpg)
+**NodeMCU Pinout** ![xrt](images/NodeMCU-pinout.jpg)
+
 **Complete Circuit** ![](images/Circuit.jpeg)
 
 ## Libraries
