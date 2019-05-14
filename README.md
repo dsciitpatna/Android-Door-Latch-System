@@ -22,7 +22,7 @@ A low cost Door Latch System which can be control using an Android App and it ev
 
 ## Circuit Diagram
 **NodeMCU Pinout** ![](images/NodeMCU-pinout.jpg)
-**Complete Circuit** ![](images/Circuit.jpg)
+**Complete Circuit** ![](images/Circuit.jpeg)
 
 ## Libraries
 ```
